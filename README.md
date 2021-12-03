@@ -1,2 +1,2 @@
-# Proyecto.profemason
+# Proyecto.ostmusica
 paginaweb=ostmusica
